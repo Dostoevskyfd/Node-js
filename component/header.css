@@ -1,0 +1,26 @@
+.header{
+    color: var(--Pharagraph, #fdfdfd);
+font-family: Karla;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: 94px;
+padding-right: 47px;
+display: flex;
+
+}
+.home:hover{
+    text-decoration: underline;
+}
+.cards:hover{
+    text-decoration: underline;
+}
+.logo{
+    color: #ffffff;
+font-family: "SF Pro Display";
+font-size: 60px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
